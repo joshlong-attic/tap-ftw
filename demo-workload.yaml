@@ -18,6 +18,6 @@ spec:
       value: "21"
   source:
     git:
-      url: git@github.com:joshlong-attic/tap-ftw.git
+      url: https://github.com/joshlong-attic/tap-ftw.git
       ref:
         branch: main
